@@ -13,14 +13,14 @@ cd /home/username/apps/XMind_8/XMind_amd64
 #### 2. Create launch file
 Create launch file XMind_8.desktop in the folder /home/username/.local/share/applications/:
 ```bash
-[Desktop Entry]
-Version=1.0
-Type=Application
-Terminal=false
-Exec=/home/username/apps/XMind_8/XMind_amd64/XMind_8.sh
-Name=XMind 8
-Comment=Mind mapping software
-Icon=/home/username/apps/XMind_8/XMind_amd64/new_branding_new_logo.png
+[Desktop Entry]                                                             
+Version=8.0                                                                 # version of an app.
+Type=Application                                                            # type.
+Terminal=false                                                              # whether an app requires to be run in a terminal.
+Exec=/home/username/apps/XMind_8/XMind_amd64/XMind_8.sh                     # command used to launch an app.
+Name=XMind 8                                                                # name of an app.
+Comment=Mind mapping software                                               # comment which appears as a tooltip.
+Icon=/home/username/apps/XMind_8/XMind_amd64/new_branding_new_logo.png      # location of icon file.
 ```
 
 #### 3. log out and log in again. 
