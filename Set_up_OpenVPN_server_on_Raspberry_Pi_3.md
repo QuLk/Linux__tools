@@ -1,4 +1,4 @@
-## Set up OpenVPN server on Raspberry Pi 
+## Set up OpenVPN server on Raspberry Pi 3
 By QuLk @ 2018.7.10
 
 This article is based on Denis Nuțiu’s [“How to run your own OpenVPN server on a Raspberry Pi”](https://medium.freecodecamp.org/running-your-own-openvpn-server-on-a-raspberry-pi-8b78043ccdea)
