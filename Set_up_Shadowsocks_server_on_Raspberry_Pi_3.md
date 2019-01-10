@@ -1,4 +1,4 @@
-## Set up Shadowsocks server on Raspberry Pi 
+## Set up Shadowsocks server on Raspberry Pi 3
 By QuLk @ 2018.7.12
 
 Refer:   
