@@ -6,11 +6,11 @@ This article is based on Denis Nuțiu’s [“How to run your own OpenVPN server
 This article uses RASPBERRY PI 3 MODEL B, OS version: Raspbian GNU/Linux 9 (stretch).
 
 There are five main sections in this article.
-1. [Preparing](https://gist.github.com/QuLk/bafc7f29ed246f120cb2a393a8618aca#1-preparing)
-2. [Installing OpenVPN](https://gist.github.com/QuLk/bafc7f29ed246f120cb2a393a8618aca#2-installing-openvpn)
-3. [Testing the connection under the same WiFi](https://gist.github.com/QuLk/bafc7f29ed246f120cb2a393a8618aca#3-testing-the-connection-in-the-same-wifi-environment)
-4. [Port forwarding](https://gist.github.com/QuLk/bafc7f29ed246f120cb2a393a8618aca#4-port-forwarding)
-5. [Set up dynamic DNS](https://gist.github.com/QuLk/bafc7f29ed246f120cb2a393a8618aca#5-set-up-dynamic-dns)
+1. [Preparing](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#1-preparing)
+2. [Installing OpenVPN](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#2-installing-openvpn)
+3. [Testing the connection under the same WiFi](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#3-testing-the-connection-in-the-same-wifi-environment)
+4. [Port forwarding](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#4-port-forwarding)
+5. [Set up dynamic DNS](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#5-set-up-dynamic-dns)
 
 
 ### 1. Preparing
@@ -24,7 +24,7 @@ Download NOOBS to laptop from https://www.raspberrypi.org/downloads/
 #### 1.3 install Raspbian on Raspberry Pi
 Follow the [software setup guide](https://www.raspberrypi.org/learning/software-guide/) and [NOOBS setup guide](https://www.raspberrypi.org/help/videos/#noobs-setup) video to install Raspbian on Raspberry Pi 3 Model B via SD card.
 
-Or follow the instruction here: [Install Raspbian on a Raspberry Pi 3](https://gist.github.com/QuLk/3175270304abccba624ba52a575cd05c)
+Or follow the instruction here: [Install Raspbian on a Raspberry Pi 3](https://github.com/QuLk/Linux__tools/blob/master/Install_Raspbian_on_a_Raspberry_Pi_3.md)
 
 #### 1.4 Make sure the Pi connects to your WIFI
 
