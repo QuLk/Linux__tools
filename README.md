@@ -1,3 +1,3 @@
 ### Linux__tools
 
-The configuration process for tools on Linux/RaspBerry Pi.
+The configuration steps for tools on Linux/RaspBerry Pi.
