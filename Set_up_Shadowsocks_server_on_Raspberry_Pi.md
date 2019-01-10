@@ -26,7 +26,7 @@ Download NOOBS to laptop from https://www.raspberrypi.org/downloads/
 #### 1.3 install Raspbian on Raspberry Pi
 Follow the [software setup guide](https://www.raspberrypi.org/learning/software-guide/) and [NOOBS setup guide](https://www.raspberrypi.org/help/videos/#noobs-setup) video to install Raspbian on Raspberry Pi 3 Model B via SD card.
 
-Or follow the instruction here: [Install Raspbian on a Raspberry Pi 3](https://gist.github.com/QuLk/3175270304abccba624ba52a575cd05c)
+Or follow the instruction here: [Install Raspbian on a Raspberry Pi 3](https://github.com/QuLk/Linux__tools/blob/master/Install_Raspbian_on_a_Raspberry_Pi_3.md)
 
 #### 1.4 Make sure the Pi connects to your WIFI
 
