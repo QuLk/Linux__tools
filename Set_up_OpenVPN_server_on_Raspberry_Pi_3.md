@@ -6,11 +6,11 @@ This article is based on Denis Nuțiu’s [“How to run your own OpenVPN server
 This article uses RASPBERRY PI 3 MODEL B, OS version: Raspbian GNU/Linux 9 (stretch).
 
 There are five main sections in this article.
-1. [Preparing](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#1-preparing)
-2. [Installing OpenVPN](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#2-installing-openvpn)
-3. [Testing the connection under the same WiFi](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#3-testing-the-connection-in-the-same-wifi-environment)
-4. [Port forwarding](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#4-port-forwarding)
-5. [Set up dynamic DNS](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi.md#5-set-up-dynamic-dns)
+1. [Preparing](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi_3.md#1-preparing)
+2. [Installing OpenVPN](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi_3.md#2-installing-openvpn)
+3. [Testing the connection under the same WiFi](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi_3.md#3-testing-the-connection-in-the-same-wifi-environment)
+4. [Port forwarding](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi_3.md#4-port-forwarding)
+5. [Set up dynamic DNS](https://github.com/QuLk/Linux__tools/blob/master/Set_up_OpenVPN_server_on_Raspberry_Pi_3.md#5-set-up-dynamic-dns)
 
 
 ### 1. Preparing
