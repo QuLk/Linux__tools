@@ -9,10 +9,10 @@ https://www.linuxbabe.com/linux-server/setup-your-own-shadowsocks-server-on-debi
 This article uses RASPBERRY PI 3 MODEL B, OS version: Raspbian GNU/Linux 9 (stretch).
 
 There are four main sections in this article:
-1. [Preparing](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi.md#1-preparing)
-1. [Installing Shadowsocks](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi.md#2-installing-shadowsocks)
-1. [Port forwarding](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi.md#3-port-forwarding)
-1. [Set up dynamic DNS](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi.md#4-set-up-dynamic-dns)
+1. [Preparing](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi_3.md#1-preparing)
+1. [Installing Shadowsocks](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi_3.md#2-installing-shadowsocks)
+1. [Port forwarding](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi_3.md#3-port-forwarding)
+1. [Set up dynamic DNS](https://github.com/QuLk/Linux__tools/blob/master/Set_up_Shadowsocks_server_on_Raspberry_Pi_3.md#4-set-up-dynamic-dns)
 
 
 ### 1. Preparing
