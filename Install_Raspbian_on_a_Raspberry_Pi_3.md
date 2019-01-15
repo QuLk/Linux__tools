@@ -12,7 +12,7 @@ This instructions is tested on a RASPBERRY PI 3 MODEL B+ with a **32GB** memory 
 
 1. Download the image to your laptop [latest `Raspbian NOOBS` image](https://www.raspberrypi.org/downloads/noobs/). Earlier versions of Raspbian won't work.
 
-2. Upzip the image in a folder. Read INSTRUCTIONS-README.txt in the folder.
+2. Upzip the image in a folder. Read INSTRUCTIONS-README.txt in the folder.   \
     i. Download the SD Association's Formatting Tool from https://www.sdcard.org/downloads/formatter_4/eula_windows/.   \
     ii. Install and run the Formatting Tool on your machine.   \
     iii. Check that the SD card you inserted matches the one selected by the Tool.   \
