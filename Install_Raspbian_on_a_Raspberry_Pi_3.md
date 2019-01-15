@@ -4,7 +4,7 @@ Updated by QuLk @ Oct 05 2017.  \
 Updated by QuLk @ July 14 2018.  \
 Updated by QuLk @ Jan 15 2019.  
 
-This instructions is tested on a RASPBERRY PI 3 MODEL B with a **32GB** memory card. For cards over 32GB, Follow the instructions on https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md(https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md).
+This instructions is tested on a RASPBERRY PI 3 MODEL B with a **32GB** memory card. For cards over 32GB, Follow the instructions on [https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md](https://www.raspberrypi.org/documentation/installation/sdxc_formatting.md).
 
 **Notice: to make WIFI work, the information of ‘WIFI Country’ must be filled in.**
 
