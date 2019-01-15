@@ -19,17 +19,17 @@ If you are in China, please refer: https://blog.csdn.net/liudijiang/article/deta
 
 When install xrdp, it will say "connect to mirrors.opencas.cn fail". You need to replace the original package source.
 
-  1) Modify /etc/apt/sources.list
+  a) Modify /etc/apt/sources.list
 ```bash
 sudo vi /etc/apt/sources.list
 ```
-  1#deb http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi    <<---comment out this line   \
-  2 # Uncomment line below then 'apt-get update' to enable 'apt-get source'   \
-  3 #deb-src http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi   \
-  4 #replace as http://mirrors.shu.edu.cn/raspbian/raspbian/    \
-  5 deb http://mirrors.shu.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi    #<---add    \
+    1#deb http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi    <<---comment out this line   \
+    2 # Uncomment line below then 'apt-get update' to enable 'apt-get source'   \
+    3 #deb-src http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi   \
+    4 #replace as http://mirrors.shu.edu.cn/raspbian/raspbian/    \
+    5 deb http://mirrors.shu.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi    #<---add    \
 
-  2) Update packages 
+  b) Update packages 
 ```bash
 sudo apt-get update&& sudo apt-get -y dist-upgrade&&sudo apt-get update
 ```
