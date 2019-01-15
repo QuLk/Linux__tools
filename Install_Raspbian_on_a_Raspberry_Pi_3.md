@@ -1,9 +1,10 @@
 ### Install Raspbian on a Raspberry Pi 3
 
 Updated by QuLk @ Oct 05 2017.  \
-Updated by QuLk @ July 14 2018.
+Updated by QuLk @ July 14 2018.  \
+Updated by QuLk @ Jan 15 2019.  
 
-This instructions is tested on a RASPBERRY PI 3 MODEL B with a 32GB memory card. 
+This instructions is tested on a RASPBERRY PI 3 MODEL B with a **32GB** memory card. For cards over 32GB, please refer the INSTRUCTIONS-README.txt for installation instruction after unzip NOOBS_v2_4_4.zip.
 
 **Notice: to make WIFI work, the information of ‘WIFI Country’ must be filled in.**
 
