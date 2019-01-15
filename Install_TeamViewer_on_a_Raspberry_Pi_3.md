@@ -23,12 +23,11 @@ When install xrdp, it will say "connect to mirrors.opencas.cn fail". You need to
 ```bash
 sudo vi /etc/apt/sources.list
 ```
-  1#deb http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi    <<---comment out this line
-  2 # Uncomment line below then 'apt-get update' to enable 'apt-get source'
-  3 #deb-src http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi
-  4 #replace as http://mirrors.shu.edu.cn/raspbian/raspbian/ 
-
-  5 deb http://mirrors.shu.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi    #<---add
+  1#deb http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi    <<---comment out this line   \
+  2 # Uncomment line below then 'apt-get update' to enable 'apt-get source'   \
+  3 #deb-src http://raspbian.raspberrypi.org/raspbian/ stretch main contrib non-free rpi   \
+  4 #replace as http://mirrors.shu.edu.cn/raspbian/raspbian/    \
+  5 deb http://mirrors.shu.edu.cn/raspbian/raspbian/ stretch main contrib non-free rpi    #<---add    \
 
 2） Update packages 
 ```bash
